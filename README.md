@@ -6,9 +6,7 @@
       <table style="width: 850px; border-collapse: collapse;">
         <tr>
           <td style="vertical-align: top; height: 320px; padding: 10px;">
-            <img src="https://github.com/user-attachments/assets/6cb4a332-a348-4b53-8a21-5d74edeb9c26" 
-                 alt="Profile Image" 
-                 style="width: 250px; height: 250px; object-fit: cover; border-radius: 10px;" />
+            <img src="https://github.com/user-attachments/assets/6cb4a332-a348-4b53-8a21-5d74edeb9c26" width="275" height="275" />
           </td>
           <td style="vertical-align: top; width: 600px;height: 320px; padding: 10px;">
             <h1>👋 About Me</h1>
