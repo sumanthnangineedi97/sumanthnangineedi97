@@ -1,16 +1,16 @@
 <!-- Outer Table: fixed 900px width -->
-<table style="width: 900px; border-collapse: collapse; margin: auto;">
+<table style="width: 850px; border-collapse: collapse; margin: auto;">
   <tr>
     <td>
       <!-- About Me Section (Inner Table 1) -->
-      <table style="width: 100%; border-collapse: collapse;">
+      <table style="width: 850px; border-collapse: collapse;">
         <tr>
           <td style="vertical-align: top; height: 320px; padding: 10px;">
             <img src="https://github.com/user-attachments/assets/6cb4a332-a348-4b53-8a21-5d74edeb9c26" 
                  alt="Profile Image" 
-                 style="width: 100%; height: 250px; object-fit: cover; border-radius: 10px;" />
+                 style="width: 250px; height: 250px; object-fit: cover; border-radius: 10px;" />
           </td>
-          <td style="vertical-align: top; height: 320px; padding: 10px;">
+          <td style="vertical-align: top; width: 600px;height: 320px; padding: 10px;">
             <h1>👋 About Me</h1>
             <p style="text-align: justify;">
               I'm Akhila — a Data Scientist and Machine Learning Engineer with a passion<br>
@@ -26,9 +26,9 @@
       <!-- Spacer -->
       <div style="height: 1px;"></div>
       <!-- Tools & Technologies Section (Inner Table 2) -->
-      <table style="width: 100%; border-collapse: collapse;">
+      <table style="width: 850px; border-collapse: collapse;">
         <tr>
-          <td style="vertical-align: top; height: 320px; padding: 10px; width: 65%;">
+          <td style="vertical-align: top; height: 320px; width: 600px; padding: 10px; width: 65%;">
             <h1>⚙️ Tools & Technologies</h1>
             <p>
               <!-- Row 1 -->
@@ -56,7 +56,7 @@
               <img src="https://github.com/user-attachments/assets/8582f9c7-0a22-4bfd-8d4d-141993918c78" width="60" height="60" alt="Custom2"/>
             </p>
           </td>
-          <td style=" text-align: right;">
+          <td style=" text-align: right;width: 250px;">
             <img src="https://github.com/user-attachments/assets/24402a5d-12ac-4906-a6c3-2277c7c8ccb4" 
                  alt="Illustration" 
                  style="width: 100%; height: 300px; object-fit: cover; border-radius: 10px;" />
