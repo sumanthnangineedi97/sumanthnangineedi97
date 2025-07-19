@@ -38,20 +38,20 @@
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="75" height="60" alt="Flask"/>
               <br>
               <!-- Row 2 -->
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" alt="Docker"/>
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" height="60" alt="TensorFlow"/>
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60" height="60" alt="PyTorch"/>
-              <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="60" height="60" alt="Keras"/>
-              <img src="https://github.com/user-attachments/assets/cdb7f93b-0a89-4c2d-90eb-b43ae7c8a4e7" width="60" height="60" alt="MLflow"/>
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="Git"/>
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="75" height="60" alt="Docker"/>
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="75" height="60" alt="TensorFlow"/>
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="75" height="60" alt="PyTorch"/>
+              <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="60" height="75" alt="Keras"/>
+              <img src="https://github.com/user-attachments/assets/cdb7f93b-0a89-4c2d-90eb-b43ae7c8a4e7" width="75" height="60" alt="MLflow"/>
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="75" alt="Git"/>
               <br>
               <!-- Row 3 -->
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" alt="PostgreSQL"/>
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" alt="MongoDB"/>
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" alt="MySQL"/>
-              <img src="https://github.com/user-attachments/assets/d3811d80-f197-4c2c-978b-cac121934d05" width="60" height="60" alt="Snowflake"/>
-              <img src="https://github.com/user-attachments/assets/b41c093f-dd12-4de8-b818-7893b2ad4025" width="60" height="60" alt="Custom1"/>
-              <img src="https://github.com/user-attachments/assets/8582f9c7-0a22-4bfd-8d4d-141993918c78" width="60" height="60" alt="Custom2"/>
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="75" height="60" alt="PostgreSQL"/>
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="75" height="60" alt="MongoDB"/>
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="75" height="60" alt="MySQL"/>
+              <img src="https://github.com/user-attachments/assets/d3811d80-f197-4c2c-978b-cac121934d05" width="75" height="60" alt="Snowflake"/>
+              <img src="https://github.com/user-attachments/assets/b41c093f-dd12-4de8-b818-7893b2ad4025" width="75" height="60" alt="Custom1"/>
+              <img src="https://github.com/user-attachments/assets/8582f9c7-0a22-4bfd-8d4d-141993918c78" width="75" height="60" alt="Custom2"/>
             </p>
           </td>
           <td style=" text-align: right;width: 250px;">
