@@ -1,23 +1,23 @@
 <table style="width:100%; border-collapse: collapse;">
   <tr>
-    <td style="vertical-align: top; padding-left: 30px;">
+    <td style="vertical-align: top;height:320px; padding-left: 30px;">
       <img src="https://github.com/user-attachments/assets/6cb4a332-a348-4b53-8a21-5d74edeb9c26" 
            alt="Profile Image" 
            style="width:250px; height:250px; object-fit:cover;" />
     </td>
-    <td <p style="text-align: justify; padding-left: 30px; vertical-align: top;">
-      <h3>👋 About Me</strong></h3>
-      <strong>
+    <td <p style="text-align: justify;height:320px; padding-left: 30px; vertical-align: top;">
+      <h1>👋 About Me</h1>
+      <h3></h3><strong> 
       <p> I'm Akhila — a Data Scientist and Machine Learning Engineer with a passion<br> for building intelligent systems that bridge science and engineering. With a <br>Master’s degree from Clemson University and hands-on experience in deep <br>learning, data pipelines, and applied AI, I enjoy working on projects that can <br> transform complex data into meaningful solutions.  I believe in developing <br> models that are not just accurate, but also scalable and impactful.
       </p>
-        </strong>
+        </strong></h3>
     </td>
   </tr>
 </table>
 <table style="width:100%; border-collapse:collapse;">
   <tr>
-    <td style="vertical-align: top; padding-left: 30px;">
-      <h3>⚙️ Tools & Technologies</h3>
+    <td style="vertical-align: top;height:320px; padding-left: 30px;">
+      <h1>⚙️ Tools & Technologies</h1>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="85" height="60" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="85" height="60" alt="Java"/>
@@ -44,7 +44,7 @@
 
 </p>
     </td>
-    <td style="width:250px; vertical-align: top;">
+    <td style="width:250px; height:320px; vertical-align: top;">
       <img src="https://github.com/user-attachments/assets/24402a5d-12ac-4906-a6c3-2277c7c8ccb4" 
            alt="Profile Image" 
            style="width: 300px; height: 300px; object-fit: cover; border-radius: 10px;" />
