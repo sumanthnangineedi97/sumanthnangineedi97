@@ -1,24 +1,20 @@
 <!-- Outer Table: fixed 900px width -->
-<table style="width: 850px; border-collapse: collapse; margin: auto;">
-  <tr>
-    <td>
-      <!-- About Me Section (Inner Table 1) -->
-      <table style="width: 850px; border-collapse: collapse;">
+<table style="width: 850px; border-collapse: collapse;">
         <tr>
           <td style="vertical-align: top; height: 320px; padding: 10px;">
-            <img src="https://github.com/user-attachments/assets/6cb4a332-a348-4b53-8a21-5d74edeb9c26" width="270" height="275" />
+            <img src="https://github.com/user-attachments/assets/6cb4a332-a348-4b53-8a21-5d74edeb9c26" width="260" height="275" />
           </td>
           <td style="vertical-align: top; width: 600px;height: 320px; padding: 10px;">
             <h1>👋 About Me</h1>
             <p style="text-align: justify;">
-  I'm Akhila — a <strong>Data Scientist</strong> and <strong>Machine Learning Engineer</strong> with a passion<br>
-  for <strong>data analysis</strong>, <strong>intelligent systems</strong>, and <strong>real-world impact</strong>. With a 
-  <strong>Master’s</strong> <br> degree in <strong>Computer and Information Sciences</strong> from <strong>Clemson University</strong> and<br>
-  over <strong>three years of experience</strong> across <strong>research and industry</strong>, I specialize in <br>
-  <strong>data analysis</strong>, <strong>machine learning</strong>, <strong>deep learning</strong>, and <strong>cloud-based MLOps</strong>.<br>
-  I enjoy turning <strong>complex data</strong> into <strong>meaningful insights</strong> and building solutions<br>
-  that are not only <strong>accurate</strong> but also <strong>scalable</strong>, <strong>efficient</strong>, and <strong>human-centered</strong>.
-</p>
+        I'm Akhila — a <strong>Data Scientist</strong> and <strong>Machine Learning Engineer</strong> with a passion<br>
+        for <strong>data analysis</strong>, <strong>intelligent systems</strong>, and <strong>real-world impact</strong>. With a 
+        <strong>Master’s</strong> <br> degree in <strong>Computer and Information Sciences</strong> from <strong>Clemson University</strong> and<br>
+        over <strong>three years of experience</strong> across <strong>research and industry</strong>, I specialize in <br>
+        <strong>data analysis</strong>, <strong>machine learning</strong>, <strong>deep learning</strong>, and <strong>cloud-based MLOps</strong>.<br>
+        I enjoy turning <strong>complex data</strong> into <strong>meaningful insights</strong> and building solutions<br>
+        that are not only <strong>accurate</strong> but also <strong>scalable</strong>, <strong>efficient</strong>, and <strong>human-centered</strong>.
+      </p>
           </td>
         </tr>
       </table>
@@ -62,8 +58,6 @@
           </td>
         </tr>
       </table>
-  </tr>
-</table>
 
 
 
